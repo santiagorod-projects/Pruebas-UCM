@@ -12,3 +12,10 @@ Repositorio privado de prácticas para aprender a gestionar GitHub.
 ## Estado
 
 Repositorio de aprendizaje. No contiene código ni datos institucionales.
+
+## Procedimiento de trabajo
+
+Los cambios se realizarán en ramas independientes.
+
+Antes de incorporarlos a main, se revisarán
+mediante una Pull Request.
